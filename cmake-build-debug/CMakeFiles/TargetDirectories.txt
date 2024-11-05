@@ -1,0 +1,5 @@
+D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/gobang.dir
+D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/gobang_autogen_timestamp_deps.dir
+D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/gobang_autogen.dir

@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "D:/road/back/C++/homework03/cmake-build-debug/petshop_autogen",
+	"CMAKE_BINARY_DIR" : "D:/road/back/C++/homework03/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/road/back/C++/homework03/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/road/back/C++/homework03",
+	"CMAKE_SOURCE_DIR" : "D:/road/back/C++/homework03",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/road/back/C++/homework03/cmake-build-debug/petshop_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/road/back/C++/homework03/images/cat.jpg",
+		"D:/road/back/C++/homework03/images/dog.jpg"
+	],
+	"LOCK_FILE" : "D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/petshop_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/softInstall/QT/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/road/back/C++/homework03/cmake-build-debug/CMakeFiles/petshop_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/road/back/C++/homework03/resources.qrc",
+	"VERBOSITY" : 0
+}
